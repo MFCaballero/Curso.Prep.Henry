@@ -1,0 +1,30 @@
+h1 {
+    color: mediumvioletred;
+}
+img {
+    width: 400px;
+   }
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: mediumpurple;
+    padding: 50px;
+    border: 1px solid black;
+   }
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+   }
+div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   }
+a {
+    display: block;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }

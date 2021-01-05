@@ -22,5 +22,9 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
+  },
+  "dependencies": {
+    "prompt": "^1.1.0",
+    "save": "^2.4.0"
   }
 }
